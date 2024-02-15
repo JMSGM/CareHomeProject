@@ -1,0 +1,42 @@
+h1{
+    color: White;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: rgb(46, 167, 46);
+    margin: 0px;
+}
+.navbar ul{
+    position: sticky;
+    list-style-type: none;
+    background-color: rgb(46, 167, 46);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    
+    
+}
+body{
+    margin: 0px;
+    font-family: sans-serif;
+}
+main{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+footer{
+    font-family: sans-serif;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: rgb(75, 119, 75);
+}
+.navbar li{
+    float: left;
+    
+}
